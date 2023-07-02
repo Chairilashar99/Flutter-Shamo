@@ -33,7 +33,7 @@ class ProfilePage extends StatelessWidget {
                     crossAxisAlignment: CrossAxisAlignment.start,
                     children: [
                       Text(
-                        'Hello, Alex',
+                        'Hello, Hekal',
                         style: primaryTextStyle.copyWith(
                           fontSize: 24,
                           fontWeight: semiBold,
